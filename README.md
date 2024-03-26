@@ -17,12 +17,16 @@ Our 2D simulated environment is populated with autonomous bots, each equipped wi
 ### Objective-1
 Maximize the area covered by the candidates and detect points of interest within the environment using a variation of Cohort Intelligence.
 
-### Methodology for Objective 1:
+### Methodology for Objective 1: 
+![image](https://github.com/simranvaishya53/Swarm-rescue-robotics/assets/53307243/c67a5a00-6308-4562-88b3-2263f4227054)
+
 
 ### Objective-2
 Utilize a variation of Cohort Intelligence to guide the candidates towards an exit from the environment.
 
-### Methodology for Objective 2:
+### Methodology for Objective 2: 
+![image](https://github.com/simranvaishya53/Swarm-rescue-robotics/assets/53307243/9b56976a-6ed0-4d78-ae53-506d3af56720)
+
 
 ## The project evaluates the following cases:
 
